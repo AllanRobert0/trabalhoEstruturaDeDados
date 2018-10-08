@@ -12,7 +12,7 @@ package listaspilhas;
 public class EstruturaDeDados {
     
     public static void main(String[] args) {
-        
+        System.out.println("Iniciando");
         String expressao;
         
         expressao = LE.readString("Digite a Expressao: ");
